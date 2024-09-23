@@ -53,7 +53,7 @@ Mechanical Design Lead of [Team Volante](https://www.instagram.com/team_volante/
 ## 📄Research
 
 ### [Studies on effect of loading rates on hybrid composites]()
-<img width = "80%" src="data/images/ATV_trophies.jpg">
+<img width = "80%" src="data/images/ICARES3.jpg"> <img width = "80%" src="data/images/ICARES3.jpg">
  [🔗Publication link](https://www.informaticsjournals.com/index.php/jmmf/article/view/33355)
 Reasearched about the strength of Carbon/Glass fiber hybrid composites particulary in the open-hole tensile test under the guidance of Prof.Sunith Babu. Presented the findings in International Conference on Applied Research in Engineering Sciences 2022. 
 
