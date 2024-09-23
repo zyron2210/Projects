@@ -14,9 +14,10 @@ Welcome to my portfolio! Here, you'll discover my robotics projects, each linked
 ## Work Experience
 
 ### [Strider Robotics]()
-<div style="text-align: center;">
-    <img src="data/images/Strider2.jpg" width="300" />
+<div align="center">
+	<img width = "33%" src="data/images/Strider2.jpg">
 </div>
+
 
 
 ![Quadruped](data/images/Strider2.jpg)
