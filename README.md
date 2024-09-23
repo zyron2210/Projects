@@ -1,17 +1,23 @@
  <h1 align="center"> DEEPAK RAMESH</h1>
 
-Welcome to my portfolio! Here, you'll discover my robotics projects, each linked to detailed documentation showcasing my design, programming, and implementation skills. Let’s build the future of robotics together!
+
+Hi! I am a passionate mechanical engineer and aspiring roboticist with hands-on experience working in startups and projects, currently persuing MS Robotics at Northeastern University. Areas of interest include Control Systems, SLAM, Computer Vision and Reinforcement Learning. 
+
+
+
+
 
 ---
 
 ## 📚 Table of Contents
+- [Experience](#experience)
 - [Projects](#projects)
+- [Research](#research)
 - [Technologies](#technologies)
-- [About Me](#about-me)
 - [Contact](#contact)
 
 ---
-## Work Experience
+## 💼 Experience
 
 ### [Strider Robotics]()
 <div align="center">
@@ -29,18 +35,26 @@ Strider Robotics is India's first quadruped robotics startup incubated under AI 
 	<img width = "80%" src="data/images/ATV_trophies.jpg">
 </div>
 
-A detailed overview of an autonomous robot designed for obstacle avoidance and navigation.
+Captain of [Team Volante](https://www.instagram.com/team_volante/?hl=en), a collegite club consisting of 40 students, focused on building electric all-terrain vehicles for student motorsport competitions. Being the first team in India to sucessfully integrate 4 hub motors in an all-wheel drive electric ATV, we secured 2<sup>nd  </sup> runner-up position at MEGA ATV Competition 2022.  
 
 ---
 
 ### [Electric GoKart ](link-to-project-2-readme)
-![Robotic Arm](link-to-robotic-arm-image)  
-Explore the design and programming of a robotic arm that can perform various tasks using computer vision.
+
+<div align="center">
+	<img width = "80%" src="data/images/ATV_trophies.jpg">
+</div>
+
+Mechanical Design Lead of [Team Volante](https://www.instagram.com/team_volante/?hl=en). Developed an electric go-kart with a team of 19 to participate in National Electric Karting Championship 2020. Secured 6<sup>th  </sup> place in the competition.
+
 
 ---
-## Research Papers
+## 📄Research
 
 ### [Studies on effect of loading rates on hybrid composites]()
+ [🔗Publication link](https://www.informaticsjournals.com/index.php/jmmf/article/view/33355)
+Reasearched about the strength of Carbon/Glass fiber hybrid composites particulary in the open-hole tensile test under the guidance of Prof.Sunith Babu. Presented the findings in International Conference on Applied Research in Engineering Sciences 2022. 
+
 
 ---
 
@@ -53,20 +67,15 @@ Explore the design and programming of a robotic arm that can perform various tas
 
 ---
 
-## 👤 About Me
-I am a robotics engineer with a passion for creating innovative solutions that blend hardware and software. My expertise spans autonomous systems, robotic programming, and collaborative interdisciplinary projects.
-
----
-
 ## 📞 Contact
 I’d love to hear from you! Feel free to reach out for questions or collaboration opportunities.
 
-- **Email**: [yourname@example.com](mailto:yourname@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [your-github-profile](https://github.com/yourusername)
+- **Email**: [ramesh.deep@northeastern.edu](mailto:yourname@example.com)
+- **LinkedIn**: [Deepak Ramesh](www.linkedin.com/in/deepak-ramesh-5857861a5)
+- **GitHub**: [Deepak Ramesh](https://github.com/deepakr2210)
 
 ---
 
-Thank you for visiting my portfolio! Let’s innovate together! 🌟
+
 
 
