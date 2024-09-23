@@ -1,4 +1,4 @@
-# <h1 align="center"> DEEPAK RAMESH</h1>
+ <h1 align="center"> DEEPAK RAMESH</h1>
 
 Welcome to my portfolio! Here, you'll discover my robotics projects, each linked to detailed documentation showcasing my design, programming, and implementation skills. Let’s build the future of robotics together!
 
