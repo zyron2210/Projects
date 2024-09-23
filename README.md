@@ -43,7 +43,7 @@ Captain of [Team Volante](https://www.instagram.com/team_volante/?hl=en), a coll
 ### [Electric GoKart ](link-to-project-2-readme)
 
 <div align="center">
-	<img width = "80%" src="data/images/Gokart1.jpg">
+	<img width = "70%" src="data/images/Gokart1.jpg">
 </div>
 
 Mechanical Design Lead of [Team Volante](https://www.instagram.com/team_volante/?hl=en). Developed an electric go-kart with a team of 19 to participate in National Electric Karting Championship 2020. Secured 6<sup>th  </sup> place in the competition.
