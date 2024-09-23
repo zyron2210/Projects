@@ -21,7 +21,7 @@ Strider Robotics is India's first quadruped robotics startup incubated under AI 
 ## 🛠️ Projects
 
 ### [Electric All Terrain Vehicle](link-to-project-1-readme)
-![Autonomous Robot](link-to-autonomous-robot-image)  
+![Electric ATV](data/images/ATV_trophies.jpg)  
 A detailed overview of an autonomous robot designed for obstacle avoidance and navigation.
 
 ---
