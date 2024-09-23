@@ -3,6 +3,7 @@
 
 Hi! I am a passionate mechanical engineer and aspiring roboticist with hands-on experience working in startups and projects, currently persuing MS Robotics at Northeastern University. Areas of interest include Control Systems, SLAM, Computer Vision and Reinforcement Learning. 
 
+Working for 18 months at Strider Robotics, I learnt the entire product-development cycle from a reasearch prototye to a market ready product. I was able to solve real world problems by leveraging my skills in CAD modelling, Linear and non-linear FEA, Multi-body dynamic analysis, Design for Assembly & Manufacturing and drafting engineering drawings using GD&T. 
 
 
 
