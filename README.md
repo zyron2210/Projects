@@ -14,6 +14,7 @@ Welcome to my portfolio! Here, you'll discover my robotics projects, each linked
 ## Work Experience
 
 ### [Strider Robotics]()
+![Quadruped](data/images/Strider2.jpg)
 Strider Robotics is India's first quadruped robotics startup incubated under AI and Robotics Tech Park (ARTPARK) at Indian Institue of Science (IISc), Bangalore, India. Primary focus of the company is the develop robust legged robots that can navigate challenging terrains.
 
 ---
