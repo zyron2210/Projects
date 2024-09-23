@@ -11,7 +11,7 @@ Working for 18 months at Strider Robotics, I learnt the entire product-developme
 ---
 
 ## 📚 Table of Contents
-- [Experience](#experience)
+- [Experience](#Experience)
 - [Projects](#projects)
 - [Research](#research)
 - [Technologies](#technologies)
